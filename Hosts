@@ -1,3 +1,26 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+
 #=====================================
 # System Defaults
 #=====================================
@@ -242,3 +265,46 @@ fe80::1%lo0 apps.facebook.com
 #=====================================
 0.0.0.0 www.healthline.com
 0.0.0.0 healthline.com
+
+
+#=====================================
+# Pornography / Adult Sites
+#=====================================
+0.0.0.0 pornhub.com
+0.0.0.0 www.pornhub.com
+0.0.0.0 redtube.com
+0.0.0.0 www.redtube.com
+0.0.0.0 youporn.com
+0.0.0.0 www.youporn.com
+0.0.0.0 xvideos.com
+0.0.0.0 www.xvideos.com
+0.0.0.0 xnxx.com
+0.0.0.0 www.xnxx.com
+0.0.0.0 xhamster.com
+0.0.0.0 www.xhamster.com
+0.0.0.0 brazzer.com
+0.0.0.0 www.brazzer.com
+0.0.0.0 brazzers.com
+0.0.0.0 www.brazzers.com
+0.0.0.0 spankbang.com
+0.0.0.0 www.spankbang.com
+0.0.0.0 tnaflix.com
+0.0.0.0 www.tnaflix.com
+0.0.0.0 tube8.com
+0.0.0.0 www.tube8.com
+0.0.0.0 porn.com
+0.0.0.0 www.porn.com
+0.0.0.0 motherless.com
+0.0.0.0 www.motherless.com
+0.0.0.0 slutload.com
+0.0.0.0 www.slutload.com
+0.0.0.0 hclips.com
+0.0.0.0 www.hclips.com
+0.0.0.0 cam4.com
+0.0.0.0 www.cam4.com
+0.0.0.0 livejasmin.com
+0.0.0.0 www.livejasmin.com
+0.0.0.0 chaturbate.com
+0.0.0.0 www.chaturbate.com
+
+
