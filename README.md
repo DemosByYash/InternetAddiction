@@ -1,4 +1,6 @@
 # InternetAddiction
+Support my work: buymeacoffee.com/itbse
+
 This repository contains information about the strategies to mitigate addiction behaviour related to apps, games and websites.
 
 #Steps to rewire your brain by taking a break from addicting stuff without quitting the smartphone completely:
