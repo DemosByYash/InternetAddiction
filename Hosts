@@ -307,4 +307,841 @@ fe80::1%lo0 apps.facebook.com
 0.0.0.0 chaturbate.com
 0.0.0.0 www.chaturbate.com
 
+#Misc
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+
+#=====================================
+# System Defaults
+#=====================================
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+#=====================================
+# Facebook / Meta
+#=====================================
+127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
+127.0.0.1 login.facebook.com
+127.0.0.1 www.login.facebook.com
+127.0.0.1 fbcdn.net
+127.0.0.1 www.fbcdn.net
+127.0.0.1 fbcdn.com
+127.0.0.1 www.fbcdn.com
+127.0.0.1 static.ak.fbcdn.net
+127.0.0.1 static.ak.connect.facebook.com
+127.0.0.1 connect.facebook.net
+127.0.0.1 www.connect.facebook.net
+fe80::1%lo0 facebook.com
+fe80::1%lo0 login.facebook.com
+fe80::1%lo0 www.login.facebook.com
+fe80::1%lo0 fbcdn.net
+fe80::1%lo0 www.fbcdn.net
+fe80::1%lo0 fbcdn.com
+fe80::1%lo0 www.fbcdn.com
+fe80::1%lo0 static.ak.fbcdn.net
+fe80::1%lo0 static.ak.connect.facebook.com
+fe80::1%lo0 connect.facebook.net
+fe80::1%lo0 www.connect.facebook.net
+fe80::1%lo0 apps.facebook.com
+0.0.0.0 meta.com
+0.0.0.0 www.meta.com
+
+#=====================================
+# Instagram / TikTok / Snapchat
+#=====================================
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+
+#=====================================
+# Twitter / X
+#=====================================
+127.0.0.1 twitter.com
+127.0.0.1 www.twitter.com
+127.0.0.1 x.com
+127.0.0.1 www.x.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 www.twittter.com
+0.0.0.0 www.twttr.com
+0.0.0.0 *.twitter.com
+0.0.0.0 twitter.biz
+0.0.0.0 twitter.dk
+0.0.0.0 twitter.events
+0.0.0.0 twitter.ie
+0.0.0.0 twitter.je
+0.0.0.0 twitter.mobi
+0.0.0.0 twitter.nu
+0.0.0.0 twitter.pro
+0.0.0.0 twitter.su
+0.0.0.0 twitter.vn
+0.0.0.0 twitter.gd
+0.0.0.0 twitter.im
+0.0.0.0 twitter.hk
+0.0.0.0 twitter.jp
+0.0.0.0 twitter.ch
+0.0.0.0 twitter.pt
+0.0.0.0 www.twitter.fr
+0.0.0.0 www.twitter.jp
+0.0.0.0 www.twitter.rs
+0.0.0.0 www.twitter.uz
+0.0.0.0 www.twitter.com.br
+0.0.0.0 twitter.ae
+0.0.0.0 twitter.eus
+0.0.0.0 ns1.p34.dynect.net
+0.0.0.0 ns2.p34.dynect.net
+0.0.0.0 ns3.p34.dynect.net
+0.0.0.0 ns4.p34.dynect.net
+0.0.0.0 d01-01.ns.twtrdns.net
+0.0.0.0 d01-02.ns.twtrdns.net
+0.0.0.0 a.r06.twtrdns.net
+0.0.0.0 b.r06.twtrdns.net
+0.0.0.0 c.r06.twtrdns.net
+0.0.0.0 d.r06.twtrdns.net
+0.0.0.0 api-34-0-0.twitter.com
+0.0.0.0 api-47-0-0.twitter.com
+0.0.0.0 cheddar.twitter.com
+0.0.0.0 goldenglobes.twitter.com
+0.0.0.0 mx003.twitter.com
+0.0.0.0 pop-api.twitter.com
+0.0.0.0 spring-chicken-an.twitter.com
+0.0.0.0 spruce-goose-ae.twitter.com
+0.0.0.0 takeflight.twitter.com
+0.0.0.0 www2.twitter.com
+0.0.0.0 m.twitter.com
+0.0.0.0 mobile.twitter.com
+
+#=====================================
+# Reddit / Quora / Pinterest / Tumblr
+#=====================================
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 quora.com
+0.0.0.0 www.quora.com
+
+#=====================================
+# YouTube / Streaming
+#=====================================
+127.0.0.1 youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 m.youtube.com
+127.0.0.1 youtu.be
+127.0.0.1 i.ytimg.com
+127.0.0.1 youtube.com/shorts
+127.0.0.1 www.youtube.com/shorts
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+127.0.0.1 studio.youtube.com
+#=====================================
+# Games (ShellShock / Skribbl / Free4Talk etc.)
+#=====================================
+127.0.0.1 free4talk.com
+127.0.0.1 www.free4talk.com
+127.0.0.1 skribbl.io
+127.0.0.1 shellshock.io
+127.0.0.1 www.shellshock.io
+127.0.0.1 shellshockers.io
+127.0.0.1 www.shellshockers.io
+127.0.0.1 shellshockers.net
+127.0.0.1 www.shellshockers.net
+127.0.0.1 shellshockgame.com
+127.0.0.1 www.shellshockgame.com
+127.0.0.1 eggcombat.com
+127.0.0.1 www.eggcombat.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 epicgames.com
+0.0.0.0 ubisoft.com
+0.0.0.0 origin.com
+0.0.0.0 ea.com
+0.0.0.0 gog.com
+0.0.0.0 battle.net
+0.0.0.0 blizzard.com
+0.0.0.0 rockstargames.com
+0.0.0.0 riotgames.com
+0.0.0.0 playvalorant.com
+0.0.0.0 leagueoflegends.com
+0.0.0.0 minecraft.net
+0.0.0.0 mojang.com
+0.0.0.0 roblox.com
+0.0.0.0 fortnite.com
+0.0.0.0 pubg.com
+0.0.0.0 playstation.com
+0.0.0.0 xbox.com
+
+#=====================================
+# Flash / Mini Games
+#=====================================
+0.0.0.0 miniclip.com
+0.0.0.0 www.miniclip.com
+0.0.0.0 crazygames.com
+0.0.0.0 addictinggames.com
+0.0.0.0 www.addictinggames.com
+0.0.0.0 armorgames.com
+0.0.0.0 www.armorgames.com
+0.0.0.0 kongregate.com
+0.0.0.0 www.kongregate.com
+0.0.0.0 poki.com
+0.0.0.0 newgrounds.com
+0.0.0.0 y8.com
+0.0.0.0 friv.com
+0.0.0.0 kizi.com
+0.0.0.0 coolmathgames.com
+0.0.0.0 agame.com
+0.0.0.0 girlsgogames.com
+
+#=====================================
+# Gaming Download / Free Sites
+#=====================================
+0.0.0.0 gametop.com
+0.0.0.0 www.gametop.com
+0.0.0.0 gamehouse.com
+0.0.0.0 bigfishgames.com
+0.0.0.0 iwin.com
+0.0.0.0 freeridegames.com
+0.0.0.0 myplaycity.com
+0.0.0.0 toomkygames.com
+0.0.0.0 gamefools.com
+0.0.0.0 allgameshome.com
+0.0.0.0 freegamepick.net
+
+#=====================================
+# News / Clickbait
+#=====================================
+0.0.0.0 news.google.com
+0.0.0.0 www.news.google.com
+0.0.0.0 buzzfeed.com
+0.0.0.0 www.buzzfeed.com
+0.0.0.0 yahoo.com
+0.0.0.0 www.yahoo.com
+0.0.0.0 ign.com
+0.0.0.0 gamespot.com
+0.0.0.0 pcgamer.com
+0.0.0.0 kotaku.com
+0.0.0.0 polygon.com
+0.0.0.0 gamefaqs.com
+0.0.0.0 gamerant.com
+0.0.0.0 mmorpg.com
+
+#=====================================
+# Misc / Annoying Cookie Policy
+#=====================================
+0.0.0.0 www.healthline.com
+0.0.0.0 healthline.com
+
+
+#=====================================
+# Pornography / Adult Sites
+#=====================================
+0.0.0.0 pornhub.com
+0.0.0.0 www.pornhub.com
+0.0.0.0 redtube.com
+0.0.0.0 www.redtube.com
+0.0.0.0 youporn.com
+0.0.0.0 www.youporn.com
+0.0.0.0 xvideos.com
+0.0.0.0 www.xvideos.com
+0.0.0.0 xnxx.com
+0.0.0.0 www.xnxx.com
+0.0.0.0 xhamster.com
+0.0.0.0 www.xhamster.com
+0.0.0.0 brazzer.com
+0.0.0.0 www.brazzer.com
+0.0.0.0 brazzers.com
+0.0.0.0 www.brazzers.com
+0.0.0.0 spankbang.com
+0.0.0.0 www.spankbang.com
+0.0.0.0 tnaflix.com
+0.0.0.0 www.tnaflix.com
+0.0.0.0 tube8.com
+0.0.0.0 www.tube8.com
+0.0.0.0 porn.com
+0.0.0.0 www.porn.com
+0.0.0.0 motherless.com
+0.0.0.0 www.motherless.com
+0.0.0.0 slutload.com
+0.0.0.0 www.slutload.com
+0.0.0.0 hclips.com
+0.0.0.0 www.hclips.com
+0.0.0.0 cam4.com
+0.0.0.0 www.cam4.com
+0.0.0.0 livejasmin.com
+0.0.0.0 www.livejasmin.com
+0.0.0.0 chaturbate.com
+0.0.0.0 www.chaturbate.com
+# ===============================
+# HIGH-DISTRACTION / DOPAMINE BLOCKLIST (append-only)
+# ===============================
+
+# --- Short-form video & streaming ---
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 studio.youtube.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 ytimg.l.google.com
+0.0.0.0 yt3.googleusercontent.com
+0.0.0.0 vimeo.com
+0.0.0.0 player.vimeo.com
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 clips.twitch.tv
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 api.netflix.com
+0.0.0.0 nflxext.com
+0.0.0.0 nflximg.com
+0.0.0.0 nflxso.net
+0.0.0.0 nflxvideo.net
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 hbomax.com
+0.0.0.0 www.hbomax.com
+0.0.0.0 max.com
+0.0.0.0 www.max.com
+0.0.0.0 disneyplus.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 hotstar.com
+0.0.0.0 www.hotstar.com
+0.0.0.0 hotstar-cdn.net
+0.0.0.0 hulu.com
+0.0.0.0 www.hulu.com
+0.0.0.0 peacocktv.com
+0.0.0.0 www.peacocktv.com
+0.0.0.0 crunchyroll.com
+0.0.0.0 www.crunchyroll.com
+0.0.0.0 dailymotion.com
+0.0.0.0 www.dailymotion.com
+0.0.0.0 bilibili.com
+0.0.0.0 www.bilibili.com
+0.0.0.0 bilivideo.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 api.tiktokv.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 byteoversea.com
+0.0.0.0 douyin.com
+0.0.0.0 www.douyin.com
+0.0.0.0 snapcdn.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 kwai.com
+0.0.0.0 www.kwai.com
+0.0.0.0 likee.video
+0.0.0.0 www.likee.video
+0.0.0.0 triller.co
+0.0.0.0 www.triller.co
+0.0.0.0 vine.co
+0.0.0.0 www.vine.co
+
+# --- Social / messaging (extra beyond your list) ---
+0.0.0.0 discord.com
+0.0.0.0 ptb.discord.com
+0.0.0.0 canary.discord.com
+0.0.0.0 media.discordapp.net
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 discord.gg
+0.0.0.0 whatsapp.com
+0.0.0.0 web.whatsapp.com
+0.0.0.0 whatsapp.net
+0.0.0.0 telegram.org
+0.0.0.0 web.telegram.org
+0.0.0.0 t.me
+0.0.0.0 vk.com
+0.0.0.0 ok.ru
+0.0.0.0 weibo.com
+0.0.0.0 m.weibo.cn
+0.0.0.0 wechat.com
+0.0.0.0 qq.com
+0.0.0.0 line.me
+0.0.0.0 messenger.com
+0.0.0.0 threads.net
+0.0.0.0 truthsocial.com
+0.0.0.0 mastodon.social
+0.0.0.0 blueskyweb.xyz
+0.0.0.0 bsky.app
+0.0.0.0 gab.com
+0.0.0.0 parler.com
+0.0.0.0 gettr.com
+0.0.0.0 parler.ai
+0.0.0.0 substack.com
+0.0.0.0 medium.com
+0.0.0.0 www.medium.com
+0.0.0.0 producthunt.com
+0.0.0.0 www.producthunt.com
+0.0.0.0 hackernews.ycombinator.com
+0.0.0.0 news.ycombinator.com
+0.0.0.0 9gag.com
+0.0.0.0 www.9gag.com
+0.0.0.0 imgur.com
+0.0.0.0 i.imgur.com
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 pinimg.com
+0.0.0.0 quora.com
+0.0.0.0 www.quora.com
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 be.real
+0.0.0.0 bereal.com
+0.0.0.0 www.bereal.com
+
+# --- Game launchers / platforms (some you already added) ---
+0.0.0.0 store.steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 help.steampowered.com
+0.0.0.0 steamstatic.com
+0.0.0.0 steamcdn-a.akamaihd.net
+0.0.0.0 epicgames.com
+0.0.0.0 store.epicgames.com
+0.0.0.0 ubisoft.com
+0.0.0.0 store.ubi.com
+0.0.0.0 uplaypc-s-ubisoft.cdn.ubionline.com
+0.0.0.0 origin.com
+0.0.0.0 ea.com
+0.0.0.0 cdn1.ea.com
+0.0.0.0 gog.com
+0.0.0.0 www.gog.com
+0.0.0.0 rockstargames.com
+0.0.0.0 socialclub.rockstargames.com
+0.0.0.0 riotgames.com
+0.0.0.0 auth.riotgames.com
+0.0.0.0 valorant.secure.dyn.riotcdn.net
+0.0.0.0 leagueoflegends.com
+0.0.0.0 playvalorant.com
+0.0.0.0 blizzard.com
+0.0.0.0 battle.net
+0.0.0.0 playstation.com
+0.0.0.0 my.playstation.com
+0.0.0.0 xbox.com
+0.0.0.0 www.xbox.com
+0.0.0.0 nintendo.com
+0.0.0.0 accounts.nintendo.com
+
+# --- Big game portals (some you already added) ---
+0.0.0.0 crazygames.com
+0.0.0.0 www.crazygames.com
+0.0.0.0 iogames.space
+0.0.0.0 iogames.live
+0.0.0.0 iogames.onl
+0.0.0.0 iogames.center
+0.0.0.0 freegames.org
+0.0.0.0 www.freegames.org
+0.0.0.0 poki.com
+0.0.0.0 www.poki.com
+0.0.0.0 html5games.com
+0.0.0.0 www.html5games.com
+0.0.0.0 minijuegos.com
+0.0.0.0 www.minijuegos.com
+0.0.0.0 y8.com
+0.0.0.0 www.y8.com
+0.0.0.0 y8games.com
+0.0.0.0 newgrounds.com
+0.0.0.0 www.newgrounds.com
+0.0.0.0 kongregate.com
+0.0.0.0 www.kongregate.com
+0.0.0.0 armorgames.com
+0.0.0.0 www.armorgames.com
+0.0.0.0 addictinggames.com
+0.0.0.0 www.addictinggames.com
+0.0.0.0 coolmathgames.com
+0.0.0.0 www.coolmathgames.com
+0.0.0.0 notdoppler.com
+0.0.0.0 friv.com
+0.0.0.0 www.friv.com
+0.0.0.0 kizi.com
+0.0.0.0 www.kizi.com
+0.0.0.0 agame.com
+0.0.0.0 www.agame.com
+0.0.0.0 gameforge.com
+0.0.0.0 www.gameforge.com
+0.0.0.0 nitrome.com
+0.0.0.0 www.nitrome.com
+0.0.0.0 girlsgogames.com
+0.0.0.0 www.girlsgogames.com
+0.0.0.0 spilgames.com
+0.0.0.0 www.spilgames.com
+0.0.0.0 lagged.com
+0.0.0.0 www.lagged.com
+0.0.0.0 silvergames.com
+0.0.0.0 www.silvergames.com
+0.0.0.0 gamepix.com
+0.0.0.0 www.gamepix.com
+0.0.0.0 titotu.io
+0.0.0.0 www.titotu.io
+
+# --- Popular .io games (tons) ---
+0.0.0.0 agar.io
+0.0.0.0 www.agar.io
+0.0.0.0 slither.io
+0.0.0.0 www.slither.io
+0.0.0.0 diep.io
+0.0.0.0 www.diep.io
+0.0.0.0 moomoo.io
+0.0.0.0 www.moomoo.io
+0.0.0.0 surviv.io
+0.0.0.0 www.surviv.io
+0.0.0.0 zombs.io
+0.0.0.0 www.zombs.io
+0.0.0.0 starve.io
+0.0.0.0 www.starve.io
+0.0.0.0 krunker.io
+0.0.0.0 www.krunker.io
+0.0.0.0 bonk.io
+0.0.0.0 www.bonk.io
+0.0.0.0 paper.io
+0.0.0.0 paper-io.com
+0.0.0.0 paperio2.com
+0.0.0.0 hole.io
+0.0.0.0 www.hole.io
+0.0.0.0 crowdcitygame.com
+0.0.0.0 brutalmania.io
+0.0.0.0 deeeep.io
+0.0.0.0 www.deeeep.io
+0.0.0.0 wings.io
+0.0.0.0 www.wings.io
+0.0.0.0 narwhale.io
+0.0.0.0 www.narwhale.io
+0.0.0.0 littlebigsnake.com
+0.0.0.0 flyordie.io
+0.0.0.0 braains.io
+0.0.0.0 survivio.com
+0.0.0.0 lordz.io
+0.0.0.0 starblast.io
+0.0.0.0 www.starblast.io
+0.0.0.0 evowars.io
+0.0.0.0 mope.io
+0.0.0.0 www.mope.io
+0.0.0.0 vex7.io
+0.0.0.0 vex6.io
+0.0.0.0 vex5.io
+0.0.0.0 vex4.io
+0.0.0.0 zlap.io
+0.0.0.0 www.zlap.io
+0.0.0.0 agar.red
+0.0.0.0 agar.bio
+0.0.0.0 agar.one
+0.0.0.0 shellshock.io
+0.0.0.0 www.shellshock.io
+0.0.0.0 shellshockers.io
+0.0.0.0 shellshockers.us
+0.0.0.0 shellshockers.net
+0.0.0.0 shellshockgame.com
+0.0.0.0 eggcombat.com
+0.0.0.0 vexgames.com
+0.0.0.0 snowball.io
+0.0.0.0 tanki.online
+0.0.0.0 gulper.io
+0.0.0.0 aquapark.io
+0.0.0.0 splix.io
+0.0.0.0 www.splix.io
+0.0.0.0 superhex.io
+0.0.0.0 www.superhex.io
+0.0.0.0 voxels.io
+0.0.0.0 voxel.flyordie.com
+0.0.0.0 skribbl.io
+0.0.0.0 www.skribbl.io
+0.0.0.0 skribbl.io2.org
+0.0.0.0 skribbl.us
+0.0.0.0 scribble-rs.io
+0.0.0.0 surviv-io.org
+0.0.0.0 survivio.club
+0.0.0.0 brutes.io
+0.0.0.0 goofball.io
+0.0.0.0 gota.io
+0.0.0.0 diep2.io
+0.0.0.0 diep.link
+0.0.0.0 flyordie.com
+0.0.0.0 ferge.io
+0.0.0.0 vexchallenger.com
+0.0.0.0 vex7.com
+0.0.0.0 buildroyale.io
+0.0.0.0 gulper.io
+0.0.0.0 taming.io
+0.0.0.0 starve-io.com
+0.0.0.0 evoworld.io
+0.0.0.0 evowars.io
+0.0.0.0 creatur.io
+0.0.0.0 brutal.io
+0.0.0.0 brutal-io.com
+0.0.0.0 lordz2.io
+0.0.0.0 paper-io.com
+0.0.0.0 wormax.io
+0.0.0.0 wormate.io
+0.0.0.0 wormate2.io
+0.0.0.0 gaple.io
+0.0.0.0 zombsroyale.io
+0.0.0.0 diep-io.org
+0.0.0.0 diep-io.io
+0.0.0.0 diep-io.com
+0.0.0.0 surviv-io.com
+0.0.0.0 surviv-io.io
+0.0.0.0 voxiom.io
+0.0.0.0 surviv2.io
+0.0.0.0 evony.com
+0.0.0.0 survivio.info
+0.0.0.0 iogames.com
+0.0.0.0 iogames.name
+0.0.0.0 iogameshub.com
+0.0.0.0 iogamesunblocked.com
+0.0.0.0 iounblockedgames.net
+0.0.0.0 unblockedgames333.com
+0.0.0.0 unblockedgames66ez.com
+0.0.0.0 unblocked-games.s3.amazonaws.com
+0.0.0.0 sites.google.com # many “unblocked games” live here in schools
+
+# --- More portals / mirrors / clones ---
+0.0.0.0 crazygames.org
+0.0.0.0 crazygames.cc
+0.0.0.0 crazygamesunblocked.com
+0.0.0.0 poki-games.net
+0.0.0.0 poki-giochi.it
+0.0.0.0 kizi-mizi.com
+0.0.0.0 friv-2018.com
+0.0.0.0 friv2019games.net
+0.0.0.0 friv2020.io
+0.0.0.0 friv5online.com
+0.0.0.0 frivclassic.com
+0.0.0.0 y9freegames.com
+0.0.0.0 y8y8y8.top
+0.0.0.0 a10.com
+0.0.0.0 shockwave.com
+0.0.0.0 gameflare.com
+0.0.0.0 gameflare.net
+0.0.0.0 gamezop.com
+0.0.0.0 gamee.com
+0.0.0.0 gameonline.co.id
+0.0.0.0 silvergames.net
+0.0.0.0 gamemonetize.com
+0.0.0.0 gamedistribution.com
+0.0.0.0 gamedistribution.com
+0.0.0.0 gamemonetize.net
+0.0.0.0 itch.io
+0.0.0.0 www.itch.io
+0.0.0.0 gamebanana.com
+0.0.0.0 www.gamebanana.com
+0.0.0.0 unity.com
+0.0.0.0 play.unity.com
+
+# --- Sports & clickbait time-sinks ---
+0.0.0.0 espn.com
+0.0.0.0 www.espn.com
+0.0.0.0 espncricinfo.com
+0.0.0.0 www.espncricinfo.com
+0.0.0.0 cricbuzz.com
+0.0.0.0 www.cricbuzz.com
+0.0.0.0 goal.com
+0.0.0.0 www.goal.com
+0.0.0.0 livescore.com
+0.0.0.0 www.livescore.com
+0.0.0.0 flashscore.com
+0.0.0.0 www.flashscore.com
+0.0.0.0 buzzfeed.com
+0.0.0.0 www.buzzfeed.com
+0.0.0.0 ladbible.com
+0.0.0.0 www.ladbible.com
+0.0.0.0 unilad.com
+0.0.0.0 www.unilad.com
+0.0.0.0 boredpanda.com
+0.0.0.0 www.boredpanda.com
+0.0.0.0 dailystar.co.uk
+0.0.0.0 www.dailystar.co.uk
+0.0.0.0 mirror.co.uk
+0.0.0.0 www.mirror.co.uk
+0.0.0.0 nypost.com
+0.0.0.0 www.nypost.com
+0.0.0.0 the-sun.com
+0.0.0.0 www.the-sun.com
+0.0.0.0 thesun.co.uk
+0.0.0.0 www.thesun.co.uk
+0.0.0.0 yahoo.com
+0.0.0.0 www.yahoo.com
+0.0.0.0 news.yahoo.com
+0.0.0.0 news.google.com
+
+# --- Gambling / betting (high dopamine loops) ---
+0.0.0.0 bet365.com
+0.0.0.0 www.bet365.com
+0.0.0.0 betfair.com
+0.0.0.0 www.betfair.com
+0.0.0.0 williamhill.com
+0.0.0.0 www.williamhill.com
+0.0.0.0 pokerstars.com
+0.0.0.0 www.pokerstars.com
+0.0.0.0 888.com
+0.0.0.0 www.888.com
+0.0.0.0 draftkings.com
+0.0.0.0 www.draftkings.com
+0.0.0.0 fanduel.com
+0.0.0.0 www.fanduel.com
+0.0.0.0 stake.com
+0.0.0.0 www.stake.com
+0.0.0.0 rollbit.com
+0.0.0.0 www.rollbit.com
+0.0.0.0 stake.games
+0.0.0.0 stake.us
+0.0.0.0 betway.com
+0.0.0.0 www.betway.com
+0.0.0.0 ladbrokes.com
+0.0.0.0 www.ladbrokes.com
+0.0.0.0 skybet.com
+0.0.0.0 www.skybet.com
+0.0.0.0 betmgm.com
+0.0.0.0 www.betmgm.com
+0.0.0.0 pinnacle.com
+0.0.0.0 www.pinnacle.com
+0.0.0.0 unibet.com
+0.0.0.0 www.unibet.com
+0.0.0.0 leovegas.com
+0.0.0.0 www.leovegas.com
+
+# --- More adult (complements your list) ---
+0.0.0.0 xvideos2.com
+0.0.0.0 xvideos3.com
+0.0.0.0 pornhubpremium.com
+0.0.0.0 spankwire.com
+0.0.0.0 xvideos-cdn.com
+0.0.0.0 redgifs.com
+0.0.0.0 www.redgifs.com
+0.0.0.0 eporner.com
+0.0.0.0 www.eporner.com
+0.0.0.0 hdporn.com
+0.0.0.0 www.hdporn.com
+0.0.0.0 xfreehd.com
+0.0.0.0 www.xfreehd.com
+0.0.0.0 porntrex.com
+0.0.0.0 www.porntrex.com
+0.0.0.0 xnxx-cdn.com
+0.0.0.0 xhamsterlive.com
+0.0.0.0 www.xhamsterlive.com
+0.0.0.0 camwhores.tv
+0.0.0.0 www.camwhores.tv
+0.0.0.0 youjizz.com
+0.0.0.0 www.youjizz.com
+0.0.0.0 youpornru.com
+0.0.0.0 txxx.com
+0.0.0.0 www.txxx.com
+0.0.0.0 daftsex.com
+0.0.0.0 www.daftsex.com
+0.0.0.0 slutroulette.com
+0.0.0.0 www.slutroulette.com
+0.0.0.0 sextube.com
+0.0.0.0 www.sextube.com
+0.0.0.0 pornmd.com
+0.0.0.0 www.pornmd.com
+0.0.0.0 xvideos.es
+0.0.0.0 xhamster.desi
+0.0.0.0 pornhubselect.com
+
+# --- Misc time-sinks & distractions ---
+0.0.0.0 imdb.com
+0.0.0.0 www.imdb.com
+0.0.0.0 rottentomatoes.com
+0.0.0.0 www.rottentomatoes.com
+0.0.0.0 letterboxd.com
+0.0.0.0 www.letterboxd.com
+0.0.0.0 fandom.com
+0.0.0.0 www.fandom.com
+0.0.0.0 wikia.com
+0.0.0.0 www.wikia.com
+0.0.0.0 tvtropes.org
+0.0.0.0 www.tvtropes.org
+0.0.0.0 speedtest.net
+0.0.0.0 www.speedtest.net
+0.0.0.0 speed.cloudflare.com
+0.0.0.0 productreview.com.au
+0.0.0.0 trustpilot.com
+0.0.0.0 www.trustpilot.com
+0.0.0.0 ozbargain.com.au
+0.0.0.0 slickdeals.net
+0.0.0.0 www.slickdeals.net
+0.0.0.0 myanimelist.net
+0.0.0.0 www.myanimelist.net
+0.0.0.0 aniList.co
+0.0.0.0 anilist.co
+0.0.0.0 goodreads.com
+0.0.0.0 www.goodreads.com
+0.0.0.0 wattpad.com
+0.0.0.0 www.wattpad.com
+0.0.0.0 soundcloud.com
+0.0.0.0 www.soundcloud.com
+0.0.0.0 mixcloud.com
+0.0.0.0 www.mixcloud.com
+0.0.0.0 bandcamp.com
+0.0.0.0 www.bandcamp.com
+0.0.0.0 pandora.com
+0.0.0.0 www.pandora.com
+0.0.0.0 tunein.com
+0.0.0.0 www.tunein.com
+0.0.0.0 shazam.com
+0.0.0.0 www.shazam.com
+
+# --- Extra mirrors for .io & unblocked lists (catch-alls) ---
+0.0.0.0 iogamesfree.org
+0.0.0.0 bestiogames.com
+0.0.0.0 iogames.pro
+0.0.0.0 iogames.fun
+0.0.0.0 crazygamesonline.io
+0.0.0.0 unblocked77.github.io
+0.0.0.0 unblocked88.github.io
+0.0.0.0 unblocked-games.sites.google.com
+0.0.0.0 unblockeds-games.sites.google.com
+0.0.0.0 io-games.github.io
+0.0.0.0 io-games-online.com
+0.0.0.0 iogameslist.org
+0.0.0.0 io-games.live
+0.0.0.0 io-games.space
+
+
 
